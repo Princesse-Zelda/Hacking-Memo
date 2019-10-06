@@ -3,15 +3,15 @@ Mémo : schéma type d'un test d'intrusion
 
 ![Hacking](screenshots/malware.jpg)
 
-Sommaire :
-0. Préparation et collecte
-1. Reconnaissance
-2. Recherche de vulnérabilités
-3. Exploitation
-4. Elevation de privilèges
-5. Maintien des accès
-6. Nettoyage des traces
-7. Mouvement latéral
-8. Ciblage et exfiltration
+## Sommaire :
+1. Préparation et collecte
+2. Reconnaissance
+3. Recherche de vulnérabilités
+4. Exploitation
+5. Elevation de privilèges
+6. Maintien des accès
+7. Nettoyage des traces
+8. Mouvement latéral
+9. Ciblage et exfiltration
 
 [En cours d'édition]
