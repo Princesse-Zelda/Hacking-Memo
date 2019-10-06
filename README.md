@@ -1,6 +1,8 @@
 # Hacking-Memo
 Mémo : schéma type d'un test d'intrusion
 
+![Hacking](screenshots/malware.jpg)
+
 Sommaire :
 0. Préparation et collecte
 1. Reconnaissance
