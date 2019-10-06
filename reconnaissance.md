@@ -1,5 +1,6 @@
 # Reconnaissance Windows
-Etape de découverte du réseau et des services ouverts.
+Etape de découverte du réseau et des services disponibles.
+
 Contexte : machine interne **déjà connectée** au réseau de l'entreprise.
 
 ## Ping Castle
