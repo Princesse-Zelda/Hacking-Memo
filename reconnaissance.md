@@ -70,8 +70,27 @@ LmPasswordHistory: 00010011
 The command completed successfully
 ```
 
+## GPResult
+Outil Microsoft : gestion RSOP et GPO
+
+### Exemple
+```
+gpresult /R
+```
+
 # Reconnaissance Kali
 Contexte : machine externe **déjà connectée** au réseau de l'entreprise.
+
+## NetDiscover
+
+### Description
+Découverte de réseau via ARP
+Alternative : utiliser Wireshark et grepper les trames ARP
+
+### Exemple
+```
+$ netdiscover -i eth0 -r 192.168.1.0/24
+```
 
 ## Nmap
 [CheatSheet 1](https://percussiveelbow.github.io/nmap-cheatsheet/)
@@ -87,7 +106,7 @@ $ sudo nmap -sT -sV -p 200 IP -oA output.log
 [GitHub](https://github.com/BloodHoundAD/Bloodhound/wiki)
 
 ### Description
-Génération des différents chemins possibles entre machines et serveurs d'un domaine.
+Génération des chemins de compromissions possibles entre utilisateurs, machines et serveurs d'un domaine.
 
 ### Screenshots
 Par *c0d3xpl0it*
